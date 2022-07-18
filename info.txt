@@ -1,1 +1,3 @@
 this is a picture gallery that is made entirely for learning purpose.
+so i editted/added this line via gitbash command 'nano filename.extension'
+This command opens editing mode. After having your work done, press Ctrl + x.
